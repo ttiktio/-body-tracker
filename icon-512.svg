@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#0b0b0c"/>
+<circle cx="256.0" cy="256.0" r="158.72" fill="none" stroke="#ffffff" stroke-width="23.04"/>
+<path d="M 184.32 291.84 C 209.92 194.56, 302.08 194.56, 327.68 291.84" fill="none" stroke="#ffffff" stroke-width="23.04" stroke-linecap="round"/>
+<text x="50%" y="73%" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="66.56" font-weight="700">BODY</text>
+</svg>
